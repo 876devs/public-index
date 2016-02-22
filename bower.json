@@ -1,0 +1,28 @@
+{
+  "name": "public-index",
+  "version": "0.0.0",
+  "authors": [
+    "tremainebuchanan <tremainekbuchanan@gmail.com>"
+  ],
+  "description": "Search engine for public listed individuals",
+  "keywords": [
+    "search",
+    "engine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "font-awesome": "~4.5.0",
+    "underscore": "~1.8.3"
+  }
+}
